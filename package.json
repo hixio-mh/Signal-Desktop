@@ -100,7 +100,7 @@
     "mkdirp": "0.5.2",
     "moment": "2.21.0",
     "mustache": "2.3.0",
-    "node-fetch": "2.6.1",
+    "node-fetch": "2.6.7",
     "node-forge": "0.10.0",
     "node-gyp": "5.0.3",
     "normalize-path": "3.0.0",
